@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\d38a4cbcd0935e6a2d66337c7556d257\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\770b0499582ded8fdbd8d5877fee7c4d\AndroidManifest.xml:17:1-29:12
+MERGED from [:CordovaLib] C:\Users\nuynuy\Desktop\fbApp\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\de592e423e0c1dbd180e6296719ff326\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\06ad152aa7798c4dbd7f9e4d45fd791d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\736ed56b2daaaf0ea0576dee1d47a4af\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0ae46c6e35ef680c50c20f7cd21f2c8a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\2d7115855381ac3f6a290189db232ff9\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e16702994df8dd79a07180a4ca69faa8\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\d001061c584b42c1145276e1343a6a98\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\22f6e766d05d999750b9d08cf8049695\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\45995695c5a7897ac58d6991752ae86f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\7ff9d7096c95ca99e6f752f3f1baf382\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\750327ec71e4cfb18db916d8e3674e06\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1604d6fa4412a414b0119fbde1eab9fb\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\35b1e9fc0177b2d88b9f1eafaf37ef2a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\6531142340c3d1f860a3c783fca07a86\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\3950a83f25ad3f100a4f435399a73f39\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\9eda93806e3e5d8479aba0cf3374799b\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:2:102-125
+		INJECTED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:2:126-184
+	android:versionCode
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\de592e423e0c1dbd180e6296719ff326\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\de592e423e0c1dbd180e6296719ff326\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:5:5-13:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\770b0499582ded8fdbd8d5877fee7c4d\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\770b0499582ded8fdbd8d5877fee7c4d\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\de592e423e0c1dbd180e6296719ff326\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\de592e423e0c1dbd180e6296719ff326\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\06ad152aa7798c4dbd7f9e4d45fd791d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\06ad152aa7798c4dbd7f9e4d45fd791d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\736ed56b2daaaf0ea0576dee1d47a4af\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\736ed56b2daaaf0ea0576dee1d47a4af\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0ae46c6e35ef680c50c20f7cd21f2c8a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0ae46c6e35ef680c50c20f7cd21f2c8a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\2d7115855381ac3f6a290189db232ff9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\2d7115855381ac3f6a290189db232ff9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e16702994df8dd79a07180a4ca69faa8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e16702994df8dd79a07180a4ca69faa8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\d001061c584b42c1145276e1343a6a98\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\d001061c584b42c1145276e1343a6a98\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\22f6e766d05d999750b9d08cf8049695\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\22f6e766d05d999750b9d08cf8049695\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\45995695c5a7897ac58d6991752ae86f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\45995695c5a7897ac58d6991752ae86f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\7ff9d7096c95ca99e6f752f3f1baf382\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\7ff9d7096c95ca99e6f752f3f1baf382\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\750327ec71e4cfb18db916d8e3674e06\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\750327ec71e4cfb18db916d8e3674e06\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1604d6fa4412a414b0119fbde1eab9fb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1604d6fa4412a414b0119fbde1eab9fb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\35b1e9fc0177b2d88b9f1eafaf37ef2a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\35b1e9fc0177b2d88b9f1eafaf37ef2a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\6531142340c3d1f860a3c783fca07a86\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\6531142340c3d1f860a3c783fca07a86\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\3950a83f25ad3f100a4f435399a73f39\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\3950a83f25ad3f100a4f435399a73f39\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\9eda93806e3e5d8479aba0cf3374799b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\9eda93806e3e5d8479aba0cf3374799b\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
+activity#com.app.fbapp.MainActivity
+ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:12:9-233
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\de592e423e0c1dbd180e6296719ff326\AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\de592e423e0c1dbd180e6296719ff326\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\de592e423e0c1dbd180e6296719ff326\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:12:19-128
+	android:theme
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:12:182-230
+	android:name
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:12:129-181
+uses-sdk
+ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:14:5-74
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\d38a4cbcd0935e6a2d66337c7556d257\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\d38a4cbcd0935e6a2d66337c7556d257\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\770b0499582ded8fdbd8d5877fee7c4d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\770b0499582ded8fdbd8d5877fee7c4d\AndroidManifest.xml:20:5-44
+MERGED from [:CordovaLib] C:\Users\nuynuy\Desktop\fbApp\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] C:\Users\nuynuy\Desktop\fbApp\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\de592e423e0c1dbd180e6296719ff326\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\de592e423e0c1dbd180e6296719ff326\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\06ad152aa7798c4dbd7f9e4d45fd791d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\06ad152aa7798c4dbd7f9e4d45fd791d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\736ed56b2daaaf0ea0576dee1d47a4af\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\736ed56b2daaaf0ea0576dee1d47a4af\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0ae46c6e35ef680c50c20f7cd21f2c8a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0ae46c6e35ef680c50c20f7cd21f2c8a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\2d7115855381ac3f6a290189db232ff9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\2d7115855381ac3f6a290189db232ff9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e16702994df8dd79a07180a4ca69faa8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e16702994df8dd79a07180a4ca69faa8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\d001061c584b42c1145276e1343a6a98\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\d001061c584b42c1145276e1343a6a98\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\22f6e766d05d999750b9d08cf8049695\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\22f6e766d05d999750b9d08cf8049695\AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\45995695c5a7897ac58d6991752ae86f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\45995695c5a7897ac58d6991752ae86f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\7ff9d7096c95ca99e6f752f3f1baf382\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\7ff9d7096c95ca99e6f752f3f1baf382\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\750327ec71e4cfb18db916d8e3674e06\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\750327ec71e4cfb18db916d8e3674e06\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1604d6fa4412a414b0119fbde1eab9fb\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1604d6fa4412a414b0119fbde1eab9fb\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\35b1e9fc0177b2d88b9f1eafaf37ef2a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\35b1e9fc0177b2d88b9f1eafaf37ef2a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\6531142340c3d1f860a3c783fca07a86\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\6531142340c3d1f860a3c783fca07a86\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\3950a83f25ad3f100a4f435399a73f39\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\3950a83f25ad3f100a4f435399a73f39\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\9eda93806e3e5d8479aba0cf3374799b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\9eda93806e3e5d8479aba0cf3374799b\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\d38a4cbcd0935e6a2d66337c7556d257\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:14:42-71
+	android:minSdkVersion
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:14:15-41
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:15:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\de592e423e0c1dbd180e6296719ff326\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\de592e423e0c1dbd180e6296719ff326\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\nuynuy\Desktop\fbApp\platforms\android\app\src\main\AndroidManifest.xml:15:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\770b0499582ded8fdbd8d5877fee7c4d\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\770b0499582ded8fdbd8d5877fee7c4d\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\770b0499582ded8fdbd8d5877fee7c4d\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\770b0499582ded8fdbd8d5877fee7c4d\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0ae46c6e35ef680c50c20f7cd21f2c8a\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0ae46c6e35ef680c50c20f7cd21f2c8a\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\nuynuy\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0ae46c6e35ef680c50c20f7cd21f2c8a\AndroidManifest.xml:24:13-58

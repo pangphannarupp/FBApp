@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+
+
+
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+
+    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
+    <link href="css/ionic.app.css" rel="stylesheet">
+    -->
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+
+    <style type="text/css">
+        .platform-ios .manual-ios-statusbar-padding {
+            padding-top: 20px;
+        }
+        
+        .manual-remove-top-padding {
+            padding-top: 0px;
+        }
+        
+        .manual-remove-top-padding .scroll {
+            padding-top: 0px !important;
+        }
+        
+        ion-list.manual-list-fullwidth div.list,
+        .list.card.manual-card-fullwidth {
+            margin-left: -10px;
+            margin-right: -10px;
+        }
+        
+        ion-list.manual-list-fullwidth div.list>.item,
+        .list.card.manual-card-fullwidth>.item {
+            border-radius: 0px;
+            border-left: 0px;
+            border-right: 0px;
+        }
+        
+        .show-list-numbers-and-dots ul {
+            list-style-type: disc;
+            padding-left: 40px;
+        }
+        
+        .show-list-numbers-and-dots ol {
+            list-style-type: decimal;
+            padding-left: 40px;
+        }
+    </style>
+
+    <script src="js/app.js"></script>
+    <script src="js/controllers.js"></script>
+    <script src="js/routes.js"></script>
+
+    <script src="js/directives.js"></script>
+    <script src="js/services.js"></script>
+
+    <!-- Only required for Tab projects w/ pages in multiple tabs 
+    <script src="lib/ionicuirouter/ionicUIRouter.js"></script>
+    -->
+
+</head>
+
+<body ng-app="app" animation="slide-left-right-ios7" onload="onDocLoad()">
+    <div>
+        <div>
+            <ion-nav-bar class="bar-stable">
+                <ion-nav-back-button></ion-nav-back-button>
+            </ion-nav-bar>
+            <ion-nav-view></ion-nav-view>
+        </div>
+    </div>
+    <script>
+        function onDocLoad() {
+            if ((/(ipad|iphone|ipod|android|windows phone)/i.test(navigator.userAgent))) {
+                document.addEventListener('deviceready', initApp, false);
+            } else {
+                initApp();
+            }
+        }
+
+        function initApp() {
+            initAd();
+            // display the banner at startup
+            window.plugins.AdMob.createBannerView();
+            window.plugins.AdMob.showAd(true, function() {}, function(e) {
+                // alert(JSON.stringify(e));
+            });
+
+            // display the interstitial at startup
+            window.plugins.AdMob.createInterstitialView();
+            window.plugins.AdMob.showInterstitialAd(true, function() {}, function(e) {
+                // alert(JSON.stringify(e));
+            });
+        }
+
+        function initAd() {
+            if (window.plugins && window.plugins.AdMob) {
+                var ad_units = {
+                    ios: {
+                        banner: 'ca-app-pub-6869992474017983/4806197152',
+                        interstitial: 'ca-app-pub-6869992474017983/7563979554'
+                    },
+                    android: {
+                        banner: 'ca-app-pub-9918317419356352/2904921027',
+                        interstitial: 'ca-app-pub-4369502081888844/5121775495'
+                    },
+                    wp8: {
+                        banner: 'ca-app-pub-6869992474017983/8878394753',
+                        interstitial: 'ca-app-pub-6869992474017983/1355127956'
+                    }
+                };
+                var admobid = "";
+                if (/(android)/i.test(navigator.userAgent)) {
+                    admobid = ad_units.android;
+                } else if (/(iphone|ipad)/i.test(navigator.userAgent)) {
+                    admobid = ad_units.ios;
+                } else {
+                    admobid = ad_units.wp8;
+                }
+                window.plugins.AdMob.setOptions({
+                    publisherId: admobid.banner,
+                    interstitialAdId: admobid.interstitial,
+                    bannerAtTop: false, // set to true, to put banner at top
+                    overlap: false, // set to true, to allow banner overlap webview
+                    offsetTopBar: false, // set to true to avoid ios7 status bar overlap
+                    isTesting: false, // receiving test ad
+                    autoShow: true // auto show interstitial ad when loaded
+                });
+                registerAdEvents();
+                // alert('admob plugin is ready');
+
+            } else {
+                alert('admob plugin not ready');
+            }
+        }
+        // optional, in case respond to events
+        function registerAdEvents() {
+            document.addEventListener('onReceiveAd', function() {});
+            document.addEventListener('onFailedToReceiveAd', function(data) {});
+            document.addEventListener('onPresentAd', function() {});
+            document.addEventListener('onDismissAd', function() {});
+            document.addEventListener('onLeaveToAd', function() {});
+            document.addEventListener('onReceiveInterstitialAd', function() {});
+            document.addEventListener('onPresentInterstitialAd', function() {});
+            document.addEventListener('onDismissInterstitialAd', function() {});
+        }
+    </script>
+</body>
+
+</html>

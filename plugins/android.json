@@ -1,0 +1,28 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.app.fbapp"
+    },
+    "cordova-plugin-admob": {
+      "PACKAGE_NAME": "com.app.fbapp"
+    },
+    "cordova-plugin-admob-simple": {
+      "PACKAGE_NAME": "com.app.fbapp"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-admobsdk": {
+      "PACKAGE_NAME": "com.app.fbapp"
+    },
+    "cordova-admob-sdklibs": {
+      "PACKAGE_NAME": "com.app.fbapp"
+    }
+  }
+}
